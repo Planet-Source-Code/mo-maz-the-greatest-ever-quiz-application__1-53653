@@ -1,0 +1,15 @@
+Instructions
+
+Note: If you quit the exam and have answered some questions, you will not be given a score.  You must complete the exam.  You have 90 minutes to answer 60 questions.  If you run out of time, you will be given a score of 0.
+
+You need to follow these instructions in order to use this test engine.   You will answer 60 questions.  There are two types of questions - multiple choice and single choice.
+
+In the multiple choice question you have to select more than one answer.  The squared boxes are known as check boxes.  You have to check the check boxes to select your answers.  
+
+In the single choice question, you have to select answers displayed in radio buttons.  A radio button looks like a blank circle and the selection is represented by an inner black circle.
+
+After you have completed a question, you move to the next question by clicking "Next" button.  In you want to return and change the answer of the previous question, you click the "Previous" button.
+
+When you reach the end of the test, you have to grade the questions.  In order to do that you click "Grade Exam".
+
+Good luck!
